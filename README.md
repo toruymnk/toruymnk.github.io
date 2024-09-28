@@ -1,1 +1,3 @@
-# toruymnk.github.io
+# Blog
+
+<https://toruymnk.github.io>
