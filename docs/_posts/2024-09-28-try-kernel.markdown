@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ふらふらしている"
-date:   2024-05-15 23:00:00 +0900
+date:   2024-09-28 23:00:00 +0900
 categories: dialy
 ---
 
